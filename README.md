@@ -1,5 +1,9 @@
 # titanic-prediction
-this is a prediction project end to end project
+✨ ABOUT ME
+    CODSOFT 
+    Task and projects completed during data science 
+    internship at CODSOFT
+
 
 Like this video:)
  
